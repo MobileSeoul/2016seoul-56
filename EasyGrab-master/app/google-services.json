@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026615771526",
+    "firebase_url": "https://taxi-data-deea0.firebaseio.com",
+    "project_id": "taxi-data-deea0",
+    "storage_bucket": "taxi-data-deea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026615771526:android:7141e7a62fca2e0d",
+        "android_client_info": {
+          "package_name": "babjo.org.taxidata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026615771526-j96mlkcn9k9vj1s8pct6q8h4lu9kanrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "babjo.org.taxidata",
+            "certificate_hash": "973D7AB789245EF780BEDC2722DF09DF61DACDA1"
+          }
+        },
+        {
+          "client_id": "1026615771526-v6umrm6cgk2hhv94bgj7041b3h73gsc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCtpazTwhv5wwcIRkYb18mig_15IW5Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026615771526-v6umrm6cgk2hhv94bgj7041b3h73gsc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

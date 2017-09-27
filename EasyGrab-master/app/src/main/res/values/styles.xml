@@ -1,0 +1,21 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="windowActionBarOverlay">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

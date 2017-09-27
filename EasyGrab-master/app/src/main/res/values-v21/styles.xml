@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+</resources>

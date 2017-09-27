@@ -1,0 +1,62 @@
+/build
+
+# Built application files
+/*/build/
+
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle generated files
+.gradle/
+
+# Signing files
+.signing/
+
+# User-specific configurations
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+*.iml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.idea/shelf
+/android.tests.dependencies
+/confluence/target
+/dependencies
+/dist
+/gh-pages
+/ideaSDK
+/android-studio/sdk
+out
+tmp
+workspace.xml
+*.versionsBackup
+/idea/testData/debugger/tinyApp/classes*
+/jps-plugin/testData/kannotator
+ultimate/.DS_Store
+ultimate/.idea/shelf
+ultimate/dependencies
+ultimate/ideaSDK
+ultimate/out
+ultimate/tmp
+ultimate/workspace.xml
+ultimate/*.versionsBackup
